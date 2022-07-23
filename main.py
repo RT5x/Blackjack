@@ -1,4 +1,5 @@
 import time
+import numpy
 import random
 import sys
 from sys import exit
